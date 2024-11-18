@@ -21,7 +21,7 @@ Here’s a breakdown of the major components of the project:
 
 3. Data Management (DataBaseManager):
    - Core Data is used to handle local data storage, ensuring efficient management and persistence of user data, such as previously viewed APOD images, search history, and user preferences.
-- The DataBaseManager handles all Core Data operations and includes methods for saving, fetching, and deleting data. This structure makes it easy to extend the app's data layer in the future if needed.
+   - The DataBaseManager handles all Core Data operations and includes methods for saving, fetching, and deleting data. This structure makes it easy to extend the app's data layer in the future if needed.
 
 4. Network Management (NetworkManager):
    - The NetworkManager is responsible for handling all network-related tasks, including fetching the APOD image and metadata from the API.
