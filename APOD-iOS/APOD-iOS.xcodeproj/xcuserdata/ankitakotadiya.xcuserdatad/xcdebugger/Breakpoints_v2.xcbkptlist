@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8C89D852-CB75-4736-B226-4244A4CF34C3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "267D1CC4-6AB8-4A8E-A778-E00DDEDE117B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APOD-iOSTests/Mock Data/MockDataBaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "MockDataBaseManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "267D1CC4-6AB8-4A8E-A778-E00DDEDE117B - 36e3233b00974fd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for APOD_iOSTests.MockDataBaseManager.fetchRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: __C.NSManagedObject&gt;(APOD_iOS.FetchQuery) async -&gt; Swift.Array&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "APOD-iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/APOD-iOS/APOD-iOSTests/Mock%20Data/MockDataBaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "267D1CC4-6AB8-4A8E-A778-E00DDEDE117B - 63d0979ea4836dd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for APOD_iOSTests.MockDataBaseManager.fetchRequest&lt;&#x3c4;_0_0 where &#x3c4;_0_0: __C.NSManagedObject&gt;(APOD_iOS.FetchQuery) async -&gt; Swift.Array&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "APOD-iOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/APOD-iOS/APOD-iOSTests/Mock%20Data/MockDataBaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2936F2B2-61B3-4FCC-BB93-D20A0D8C6821"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APOD-iOS/Database Manager/DataBaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "pruneOldRecords(_:entity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2936F2B2-61B3-4FCC-BB93-D20A0D8C6821 - 4aebae727ddee1ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for APOD_iOS.DataBaseManager.pruneOldRecords&lt;&#x3c4;_0_0 where &#x3c4;_0_0: __C.NSManagedObject&gt;(_: Swift.Optional&lt;APOD_iOS.FetchQuery&gt;, entity: &#x3c4;_0_0.Type) async -&gt; ()"
+                  moduleName = "APOD-iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/APOD-iOS/APOD-iOS/Database%20Manager/DataBaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "1561">
+               </Location>
+               <Location
+                  uuid = "2936F2B2-61B3-4FCC-BB93-D20A0D8C6821 - 4aebae727ddee1ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for APOD_iOS.DataBaseManager.pruneOldRecords&lt;&#x3c4;_0_0 where &#x3c4;_0_0: __C.NSManagedObject&gt;(_: Swift.Optional&lt;APOD_iOS.FetchQuery&gt;, entity: &#x3c4;_0_0.Type) async -&gt; ()"
+                  moduleName = "APOD-iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/APOD-iOS/APOD-iOS/Database%20Manager/DataBaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "1887">
+               </Location>
+               <Location
+                  uuid = "2936F2B2-61B3-4FCC-BB93-D20A0D8C6821 - 4aebae727ddee1ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for APOD_iOS.DataBaseManager.pruneOldRecords&lt;&#x3c4;_0_0 where &#x3c4;_0_0: __C.NSManagedObject&gt;(_: Swift.Optional&lt;APOD_iOS.FetchQuery&gt;, entity: &#x3c4;_0_0.Type) async -&gt; ()"
+                  moduleName = "APOD-iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/APOD-iOS/APOD-iOS/Database%20Manager/DataBaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "1143">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8F093EB-0A04-49E8-89F6-33C225242F48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APOD-iOS/Reusable Views/CustomImage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "524F94FF-0A71-434E-974B-CE7C823FD5CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APOD-iOS/Reusable Views/AsyncImageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A261C97-405B-4574-921E-F92FFAE39CA2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APOD-iOS/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "urlRequest(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
