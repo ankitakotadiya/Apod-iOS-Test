@@ -6,6 +6,8 @@ The app has been built using SwiftUI, with a clear emphasis on a loose coupling 
 
 Here is the demo of the project!
 
+https://github.com/user-attachments/assets/b1585299-3e2a-46ba-91aa-55b46eaf3d2f
+
 Here’s a breakdown of the major components of the project:
 
 1. Utilities Folder:
